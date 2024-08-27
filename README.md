@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darakshan</h1>
-<h3 align="center">A beginner.</h3>
+<h3 align="center">A beginner exploring the realms of technology</h3>
 
 <img align="right" width="200px" height="200px" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" alt="coding">
 
