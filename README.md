@@ -25,6 +25,11 @@
 <a href="https://auth.geeksforgeeks.org/user/darakshan109" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darakshan109" height="30" width="40" />
 </a>
+<a href="https://www.naukri.com/code360/profile/Darakshan" target="blank">
+  <img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="codingninja" height="40" width="40" />
+</a>
+
+  
 </p>
 
 
