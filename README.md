@@ -25,8 +25,8 @@
 <a href="https://auth.geeksforgeeks.org/user/darakshan109" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darakshan109" height="30" width="40" />
 </a>
-<a href="https://www.naukri.com/code360/profile/Darakshan" target="blank">
-  <img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="codingninja" height="40" width="40" />
+<a href="https://www.naukri.com/code360/profile/Darakshan" target="blank" >
+  <img align="center" src="https://yt3.googleusercontent.com/Qak2Unp_tDxiEMmSwOj8oSUZLMytk7fcWSZA5UL2eWaxBOgUCnyvEQorbcwnVQderfZQLrko=s900-c-k-c0x00ffffff-no-rj" alt="codingninja" height="40" width="40" />
 </a>
 
   
