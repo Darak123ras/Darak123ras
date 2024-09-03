@@ -1,5 +1,11 @@
+<img src="https://github.com/user-attachments/assets/982b62de-1e67-4bb1-9659-e638f6f0c9fb" width="8050px"/>
+
+
+<!--
 <h1 align="center">Hi 👋, I'm Darakshan</h1>
 <h3 align="center">A beginner exploring the realms of technology</h3>
+-->
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=darak123ras&label=Profile%20views&color=0e75b6&style=flat" alt="darak123ras" /> </p>
 <br>
 <img align="right" width="250px" height="250px" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" alt="coding">
