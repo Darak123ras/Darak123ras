@@ -15,7 +15,7 @@
 <br><br><br>
 <hr >
 
-<h3 align="center">Connect with me:</h3>
+<!-- <h3 align="center">Connect with me:</h3>-->
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/darakshan-manower-rasheed-1517981b7/" target="blank">
