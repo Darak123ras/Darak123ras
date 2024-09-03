@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **darakhshanmrashid109@gmail.com**
 <br>
-<br><br>
+<br><br><br>
 <hr >
 
 <h3 align="center">Connect with me:</h3>
