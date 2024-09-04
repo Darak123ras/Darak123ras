@@ -1,5 +1,6 @@
-<img src="https://github.com/user-attachments/assets/982b62de-1e67-4bb1-9659-e638f6f0c9fb" width="8050px"/>
-
+<!-- <img src="https://github.com/user-attachments/assets/982b62de-1e67-4bb1-9659-e638f6f0c9fb" width="8050px"/>
+<img src="https://github.com/user-attachments/assets/45958982-502d-4254-8859-74082361327b" width="8050px"/>   -->
+<img src="https://github.com/user-attachments/assets/efe9d151-ec31-4878-a7d9-20944ec8109f" width="8050px"/>
 
 <!--
 <h1 align="center">Hi 👋, I'm Darakshan</h1>
