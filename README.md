@@ -31,9 +31,9 @@
   <a href="https://www.linkedin.com/in/darakshan-manower-rasheed-1517981b7/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/darakshan109/" target="blank">
+<!--   <a href="https://www.geeksforgeeks.org/user/darakshan109/" target="blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" />
-  </a>
+  </a> -->
   <a href="https://www.naukri.com/code360/profile/Darakshan" target="blank">
     <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />
   </a>
