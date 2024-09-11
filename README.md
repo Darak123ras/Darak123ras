@@ -62,6 +62,13 @@
 <!-- CODING NINJA -->
 <!-- HACKERRANK -->
 <img width="84" alt="image" src="https://github.com/user-attachments/assets/51342c0e-c39e-4699-bd27-c3f6fa3155c5">
+<br/>
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/d4bc2e35-02e1-4ea1-84cb-60ec7fe74c00">
+<img width="119" alt="image" src="https://github.com/user-attachments/assets/02449378-89bd-4827-99cd-3ba591564f64">
+
+
+
+
 
 </p>
 
