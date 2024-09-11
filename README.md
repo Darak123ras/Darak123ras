@@ -51,26 +51,16 @@
 
 
 <hr>
-<h2 align="center">Achievement</h2>
+<h2 align="center">Achievements</h2>
 <br/>
-<p align="center">
+<p align="left">
 <!-- LEETCODE -->
-    
-<a href="https://leetcode.com/u/darakshan109/" target="blank" >
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" align="left"/>
-</a>
-  <img src="https://github.com/user-attachments/assets/074be9d4-2788-4954-9614-3f1ba40d37c4" width="90px" height="150px"/>&nbsp;
-   <img src="https://github.com/user-attachments/assets/90da509c-2039-4189-ab1b-d0a4968c6849"  width="90px" height="150px"/>
+<img src="https://github.com/user-attachments/assets/074be9d4-2788-4954-9614-3f1ba40d37c4" width="90px" height="150px"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/90da509c-2039-4189-ab1b-d0a4968c6849"  width="90px" height="150px"/>
 
   <br/>
-<!-- CODING NINJA 
-<a href="https://www.naukri.com/code360/profile/Darakshan" target="blank">
-    <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />
-  </a> -->
+<!-- CODING NINJA -->
 <!-- HACKERRANK -->
-<a href="https://www.hackerrank.com/profile/darakhshanmrash1" target="blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" align="left"/>
-  </a><br/>
 <img width="84" alt="image" src="https://github.com/user-attachments/assets/51342c0e-c39e-4699-bd27-c3f6fa3155c5">
 
 </p>
