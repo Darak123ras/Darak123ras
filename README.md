@@ -30,16 +30,16 @@
   </a> -->
   <a href="https://www.linkedin.com/in/darakshan-manower-rasheed-1517981b7/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  />
-  </a>
-<!--   <a href="https://www.geeksforgeeks.org/user/darakshan109/" target="blank">
+  </a>&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/darakshan109/" target="blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" />
-  </a> -->
+  </a>&nbsp;
   <a href="https://www.naukri.com/code360/profile/Darakshan" target="blank">
     <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://leetcode.com/u/darakshan109/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.hackerrank.com/profile/darakhshanmrash1" target="blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
@@ -49,6 +49,31 @@
   </a> -->
 </p>
 
+
+<hr>
+<h2 align="center">Achievement</h2>
+<br/>
+<p align="center">
+<!-- LEETCODE -->
+    
+<a href="https://leetcode.com/u/darakshan109/" target="blank" >
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" align="left"/>
+</a>
+  <img src="https://github.com/user-attachments/assets/074be9d4-2788-4954-9614-3f1ba40d37c4" width="90px" height="150px"/>&nbsp;
+   <img src="https://github.com/user-attachments/assets/90da509c-2039-4189-ab1b-d0a4968c6849"  width="90px" height="150px"/>
+
+  <br/>
+<!-- CODING NINJA 
+<a href="https://www.naukri.com/code360/profile/Darakshan" target="blank">
+    <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />
+  </a> -->
+<!-- HACKERRANK -->
+<a href="https://www.hackerrank.com/profile/darakhshanmrash1" target="blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" align="left"/>
+  </a><br/>
+<img width="84" alt="image" src="https://github.com/user-attachments/assets/51342c0e-c39e-4699-bd27-c3f6fa3155c5">
+
+</p>
 
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -66,6 +91,7 @@
   <br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -98,7 +124,7 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
