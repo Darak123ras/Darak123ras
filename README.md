@@ -62,7 +62,7 @@
   <br/>
 <!-- CODING NINJA -->
 <!-- HACKERRANK -->
-<img width="86" src="https://github.com/user-attachments/assets/0ba1ed21-4578-450c-b24b-9844668eb6c6">
+<img width="86" src="https://github.com/user-attachments/assets/b63396ae-0b99-4a49-af6f-1ed5f3f2792e">
 
 <img width="86" src="https://github.com/user-attachments/assets/f56fab93-e350-4955-8172-c6640eba3a41">
 
