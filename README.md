@@ -63,8 +63,9 @@
 <!-- CODING NINJA -->
 <!-- HACKERRANK -->
 <img width="86" src="https://github.com/user-attachments/assets/b63396ae-0b99-4a49-af6f-1ed5f3f2792e">
-
 <img width="86" src="https://github.com/user-attachments/assets/9da5cf93-5e96-4b2d-b559-8c5ea7d5a8ac">
+<img width="78" src="https://github.com/user-attachments/assets/380e327e-a277-4e13-8696-3a1804a08e76">
+
 
 <br/>
 <img width="120" alt="image" src="https://github.com/user-attachments/assets/d4bc2e35-02e1-4ea1-84cb-60ec7fe74c00">
