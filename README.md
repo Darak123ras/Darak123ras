@@ -14,7 +14,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **FSRNL**
+- 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 💬 Ask me about **JAVA**
 
