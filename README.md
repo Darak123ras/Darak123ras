@@ -64,7 +64,7 @@
 <!-- HACKERRANK -->
 <img width="86" src="https://github.com/user-attachments/assets/b63396ae-0b99-4a49-af6f-1ed5f3f2792e">
 
-<img width="86" src="https://github.com/user-attachments/assets/f56fab93-e350-4955-8172-c6640eba3a41">
+<img width="86" src="https://github.com/user-attachments/assets/9da5cf93-5e96-4b2d-b559-8c5ea7d5a8ac">
 
 <br/>
 <img width="120" alt="image" src="https://github.com/user-attachments/assets/d4bc2e35-02e1-4ea1-84cb-60ec7fe74c00">
