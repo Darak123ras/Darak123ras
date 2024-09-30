@@ -59,7 +59,7 @@
 <br/>
 <p align="left">
 <!-- CODECHEF -->
-<img src="https://github.com/user-attachments/assets/e5dfb2b3-6d59-482c-839a-8e70438ecb6f" width="90px" height="115px" />
+<img src="https://github.com/user-attachments/assets/e5dfb2b3-6d59-482c-839a-8e70438ecb6f" width="90px" height="100px" />
 
 <!-- LEETCODE -->
 <img src="https://github.com/user-attachments/assets/074be9d4-2788-4954-9614-3f1ba40d37c4" width="90px" height="150px"/>&nbsp;
