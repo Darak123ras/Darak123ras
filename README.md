@@ -43,6 +43,9 @@
   </a>&nbsp;
   <a href="https://www.hackerrank.com/profile/darakhshanmrash1" target="blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>&nbsp;
+    <a href="https://www.codechef.com/users/darakshan" target="blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
   <!-- Portfolio -->
 <!--   <a href="https://www.hackerrank.com/profile/darakhshanmrash1" target="blank">
