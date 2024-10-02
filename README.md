@@ -62,11 +62,17 @@
 <h2 align="center">Achievements</h2>
 <br/>
 <p align="left">
-<!-- CODECHEF -->
-<img src="https://github.com/user-attachments/assets/e5dfb2b3-6d59-482c-839a-8e70438ecb6f" width="90px" height="100px" />
+    
+<!-- HACKEREARTH -->
+<img src="https://github.com/user-attachments/assets/eae2285c-7185-4354-9a83-385f338f61d5" width="60px" height="80px" />
+<img src="https://github.com/user-attachments/assets/9ba602d8-3b06-4f1f-a1cc-8c4ad86b1eb4" width="60px" height="80px" />
+<br/>
+    
+<!-- CODECHEF 
+<img src="https://github.com/user-attachments/assets/e5dfb2b3-6d59-482c-839a-8e70438ecb6f" width="90px" height="100px" />-->
 
 <!-- LEETCODE -->
-<img src="https://github.com/user-attachments/assets/074be9d4-2788-4954-9614-3f1ba40d37c4" width="90px" height="150px"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/074be9d4-2788-4954-9614-3f1ba40d37c4" width="90px" height="150px"/>
 <img src="https://github.com/user-attachments/assets/90da509c-2039-4189-ab1b-d0a4968c6849"  width="90px" height="150px"/>
 
   <br/>
