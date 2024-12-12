@@ -65,7 +65,7 @@
     
 <!-- HACKEREARTH -->
 <img src="https://github.com/user-attachments/assets/26b39efa-faa6-410a-952e-29e785b4f9a7" width="60px" height="80px" />
-<img src="https://github.com/user-attachments/assets/eae2285c-7185-4354-9a83-385f338f61d5" width="60px" height="80px" />
+<img src="https://github.com/user-attachments/assets/24850e2d-98e8-46ac-af17-7a1a3151f69d" width="60px" height="80px" />
 <img src="https://github.com/user-attachments/assets/9ba602d8-3b06-4f1f-a1cc-8c4ad86b1eb4" width="60px" height="80px" />
 <br/>
     
