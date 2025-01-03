@@ -50,6 +50,23 @@
 <a href="https://www.hackerearth.com/@darakshanmanower19.set" target="blank">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
   </a>
+  <a href="https://codeforces.com/profile/Darakshan109" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"  />
+  </a>&nbsp;
+    <!--
+  <a href="https://codeforces.com/profile/Darakshan109" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"  />
+  </a>&nbsp;
+  <a href="https://codeforces.com/profile/Darakshan109" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"  />
+  </a>&nbsp;
+   EXTRA 
+  <a href="https://codeforces.com/profile/Darakshan109" target="blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"  />
+  </a>&nbsp;
+  <a href="https://codeforces.com/profile/Darakshan109" target="blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"  />
+  </a>&nbsp;-->
     
   <!-- Portfolio -->
 <!--   <a href="https://www.hackerrank.com/profile/darakhshanmrash1" target="blank">
