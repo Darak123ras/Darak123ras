@@ -8,9 +8,13 @@
 <h3 align="center">A beginner exploring the realms of technology</h3>
 -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=darak123ras&label=Profile%20views&color=0e75b6&style=flat" alt="darak123ras" /> </p>
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=darak123ras&label=Profile%20views&color=0e75b6&style=flat" alt="darak123ras" /> 
+    
+</p>
 <br>
 <img align="right" width="250px" height="250px" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" alt="coding">
+
 <br>
 
 
@@ -29,6 +33,10 @@
 <!--   <a href="" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> -->
+     <!-- Portfolio -->
+ <a href="https://darakshanrasheed.in/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a> 
   <a href="https://www.linkedin.com/in/darakshan-manower-rasheed-1517981b7/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>&nbsp;
@@ -41,6 +49,9 @@
   <a href="https://leetcode.com/u/darakshan109/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>&nbsp;
+    <a href="https://codeforces.com/profile/Darakshan109" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"  />
+  </a>&nbsp;
   <a href="https://www.hackerrank.com/profile/darakhshanmrash1" target="blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>&nbsp;
@@ -50,15 +61,9 @@
 <a href="https://www.hackerearth.com/@darakshanmanower19.set" target="blank">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
   </a>
-  <a href="https://codeforces.com/profile/Darakshan109" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"  />
-  </a>&nbsp;
     <!--
-  <a href="https://codeforces.com/profile/Darakshan109" target="blank">
+  <a href="https://buymeacoffee.com/darakhshans" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"  />
-  </a>&nbsp;
-  <a href="https://codeforces.com/profile/Darakshan109" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"  />
   </a>&nbsp;
    EXTRA 
   <a href="https://codeforces.com/profile/Darakshan109" target="blank">
@@ -66,12 +71,10 @@
   </a>&nbsp;
   <a href="https://codeforces.com/profile/Darakshan109" target="blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"  />
-  </a>&nbsp;-->
+  </a>&nbsp;
+    -->
     
-  <!-- Portfolio -->
- <a href="https://darakshanrasheed.in/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a> 
+ 
 </p>
 
 
@@ -228,3 +231,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darak123ras&" alt="darak123ras" />
 </p>
 -->
+<a href="https://buymeacoffee.com/darakhshans" target="blank" >
+    <img   src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"  />
+  </a>&nbsp;
