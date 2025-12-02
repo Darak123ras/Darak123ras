@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **JAVA, React.js**
 
-- 👨‍💻 All of my projects are available at:
+- 👨‍💻 All of my projects are available at darakshanrasheed.in
 
 - 📫 How to reach me **darakhshanmrashid109@gmail.com**
 <br>
