@@ -62,7 +62,7 @@
     <a href="https://www.codechef.com/users/darakshan" target="blank">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
-<a href="https://www.hackerearth.com/@darakshanmanower19.set" target="blank">
+<a href="https://www.hackerearth.com/@dmr109/" target="blank">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
   </a>
     <!--
