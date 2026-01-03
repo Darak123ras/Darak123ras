@@ -80,6 +80,10 @@
     
  
 </p>
+<hr>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Darak123ras" alt="Darak123ras" /></a> </p>
+-->
 
 
 <hr>
