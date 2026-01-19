@@ -246,4 +246,5 @@
 <a href="https://buymeacoffee.com/darakhshans" target="blank" >
     <img   src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"  />
   </a>&nbsp;
-
+  <br/>
+![snake gif](https://github.com/Darak123ras/Darak123ras/blob/output/github-snake-dark.svg)
