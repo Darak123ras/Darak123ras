@@ -80,8 +80,8 @@
     
  
 </p>
-<hr>
 <!--
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Darak123ras" alt="Darak123ras" /></a> </p>
 -->
 
@@ -229,7 +229,21 @@
 
 </p>
 
+<hr/>
+
+
+<div align="center">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=Darak123ras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    -->
+    <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darak123ras&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+
 <hr>
 <a href="https://buymeacoffee.com/darakhshans" target="blank" >
     <img   src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"  />
   </a>&nbsp;
+
