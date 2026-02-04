@@ -4,7 +4,8 @@
 <img src="https://github.com/user-attachments/assets/45958982-502d-4254-8859-74082361327b" width="8050px"/>   
 <img src="https://github.com/user-attachments/assets/efe9d151-ec31-4878-a7d9-20944ec8109f" width="8050px"/>
 <img width="1105px" src="https://github.com/user-attachments/assets/33ed4c69-cb42-4852-823a-5acde9df2039" />-->
-<img src="https://github.com/user-attachments/assets/530f8e9f-fe5a-4feb-9b8d-c4aad94208c7" width="1105px"/> 
+<img width="2560" height="440" alt="Hello Welcome to my Github!" src="https://github.com/user-attachments/assets/791de978-b06e-40ba-8245-335900b359ff" />
+<!-- <img src="https://github.com/user-attachments/assets/530f8e9f-fe5a-4feb-9b8d-c4aad94208c7" width="1105px"/>  -->
 <!--
 <h1 align="center">Hi 👋, I'm Darakshan</h1>
 <h3 align="center">A beginner exploring the realms of technology</h3>
