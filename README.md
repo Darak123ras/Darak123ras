@@ -1,11 +1,13 @@
+<!-- svg-> https://readme-typing-svg.herokuapp.com/demo/    -->
 
 
-<!-- <img src="https://github.com/user-attachments/assets/982b62de-1e67-4bb1-9659-e638f6f0c9fb" width="8050px"/>
-<img src="https://github.com/user-attachments/assets/45958982-502d-4254-8859-74082361327b" width="8050px"/>   
-<img src="https://github.com/user-attachments/assets/efe9d151-ec31-4878-a7d9-20944ec8109f" width="8050px"/>
-<img width="1105px" src="https://github.com/user-attachments/assets/33ed4c69-cb42-4852-823a-5acde9df2039" />-->
-<img width="2560" height="440" alt="Hello Welcome to my Github!" src="https://github.com/user-attachments/assets/791de978-b06e-40ba-8245-335900b359ff" />
-<!-- <img src="https://github.com/user-attachments/assets/530f8e9f-fe5a-4feb-9b8d-c4aad94208c7" width="1105px"/>  -->
+<img width="2560" height="440" alt="......." src="https://github.com/user-attachments/assets/8bb0ad3a-18ae-4002-b468-af1a3934d2e6" />
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Knewave&size=22&pause=1000&color=f4dec7&center=true&vCenter=true&width=435&lines=Darakshan+Manower+Rasheed;Aspiring+Software+Developer+;Learning+Everyday" alt="Typing SVG"  width="2560" />
+</a>
+
+<img width="2560" height="440" alt="Hello Welcome to my Github!" src="https://github.com/user-attachments/assets/35b1915d-a607-4327-86a4-a2ab12498492" />
 <!--
 <h1 align="center">Hi 👋, I'm Darakshan</h1>
 <h3 align="center">A beginner exploring the realms of technology</h3>
@@ -237,10 +239,6 @@
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Darak123ras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     -->
     <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darak123ras&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
 
 
 <hr>
