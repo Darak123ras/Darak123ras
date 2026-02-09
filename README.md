@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Knewave&size=22&pause=1000&color=f4dec7&center=true&vCenter=true&width=435&lines=Darakshan+Manower+Rasheed;Aspiring+Software+Developer+;Learning+Everyday" alt="Typing SVG"  width="2560" />
 </a>
 
-<img width="2560" height="440" alt="Hello Welcome to my Github!" src="https://github.com/user-attachments/assets/35b1915d-a607-4327-86a4-a2ab12498492" />
+<img width="2560" height="440" alt="Hello Welcome to my Github!" src="https://github.com/user-attachments/assets/290ca502-c3da-4b27-91fe-f1f40970766d" />
 <!--
 <h1 align="center">Hi 👋, I'm Darakshan</h1>
 <h3 align="center">A beginner exploring the realms of technology</h3>
@@ -236,8 +236,8 @@
 
 
 <div align="center">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=Darak123ras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Darak123ras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!--  -->
     <br/>
 
 
