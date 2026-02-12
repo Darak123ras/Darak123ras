@@ -234,16 +234,13 @@
 
 <hr/>
 
+<!--
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Darak123ras&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+-->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darak123ras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <!--  -->
-    <br/>
-
-
-<hr>
-<a href="https://buymeacoffee.com/darakhshans" target="blank" >
-    <img   src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"  />
+<a href="https://buymeacoffee.com/darakhshans" target="blank"  >
+    <img align="right"  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"  />
   </a>&nbsp;
   <br/>
 <!-- <img src="https://github.com/Darak123ras/Darak123ras/blob/output/github-contribution-grid-snake.svg" /> -->
